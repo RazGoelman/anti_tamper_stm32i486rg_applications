@@ -54,16 +54,16 @@ Commuincation:
     
 **Electrical diagram:**
 
-      		![image](https://user-images.githubusercontent.com/66781442/207282876-06437a75-6c3c-406b-b0d1-2d2dc99c1788.png)
+  ![image](https://user-images.githubusercontent.com/66781442/207282876-06437a75-6c3c-406b-b0d1-2d2dc99c1788.png)
       
 **BLOCK DIAGRAM:**
 
-      		![image](https://user-images.githubusercontent.com/66781442/207283037-4d896c61-894d-4b01-9952-bd1169d6322e.png)
+  ![image](https://user-images.githubusercontent.com/66781442/207283037-4d896c61-894d-4b01-9952-bd1169d6322e.png)
       
 **Use cases**
 **STM32L486xx memory map and peripheral register boundary addresses:**
     
-      		![image](https://user-images.githubusercontent.com/66781442/207283564-97990f3e-6f13-45f1-97a4-ec68baa4f6c6.png)
+  ![image](https://user-images.githubusercontent.com/66781442/207283564-97990f3e-6f13-45f1-97a4-ec68baa4f6c6.png)
       
       
 **Anti-Tamper Sensor:**
@@ -150,7 +150,7 @@ Commuincation:
 
 **optenal for other location?**
 
-      		![image](https://user-images.githubusercontent.com/66781442/207285369-087d4650-2bd6-4982-9536-7208ac08774a.png)
+  ![image](https://user-images.githubusercontent.com/66781442/207285369-087d4650-2bd6-4982-9536-7208ac08774a.png)
 
 **LOG:**
 
@@ -160,7 +160,7 @@ Commuincation:
 
   • app log clear - clears log
     
-    		![image](https://user-images.githubusercontent.com/66781442/207285586-ac053b44-bd25-4a17-ad43-5d69a9e160e6.png)
+  ![image](https://user-images.githubusercontent.com/66781442/207285586-ac053b44-bd25-4a17-ad43-5d69a9e160e6.png)
 
     
 **PWM:**
@@ -183,7 +183,7 @@ Commuincation:
   
   Picocom -b 115200 /dev/ttyUSB0
 
-    		![image](https://user-images.githubusercontent.com/66781442/207285920-249fcc2b-d176-4504-a50b-b3f6dfb2ad7b.png)
+   ![image](https://user-images.githubusercontent.com/66781442/207285920-249fcc2b-d176-4504-a50b-b3f6dfb2ad7b.png)
     
     
 **Reflective Sensor test**
@@ -220,13 +220,13 @@ Commuincation:
   
   **open new project:**
     
-    		![image](https://user-images.githubusercontent.com/66781442/207286356-af53610e-77eb-441e-8fc1-64cb93efd246.png)
+   ![image](https://user-images.githubusercontent.com/66781442/207286356-af53610e-77eb-441e-8fc1-64cb93efd246.png)
     
-    		![image](https://user-images.githubusercontent.com/66781442/207286435-27cbc6f3-7ef9-48c5-9cc3-902eee0ecba0.png)
+   ![image](https://user-images.githubusercontent.com/66781442/207286435-27cbc6f3-7ef9-48c5-9cc3-902eee0ecba0.png)
     
   **Set internal clock 80 Mhz max :**
   
-    		![image](https://user-images.githubusercontent.com/66781442/207286679-66711de9-801b-434b-b12e-5ef0cbf9ef06.png)
+   ![image](https://user-images.githubusercontent.com/66781442/207286679-66711de9-801b-434b-b12e-5ef0cbf9ef06.png)
 
 
 
