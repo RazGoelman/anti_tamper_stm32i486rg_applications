@@ -1,20 +1,20 @@
 # anti_tamper_stm32i486rg_applications
 
-Project Goal:
+**Project Goal:**
 
   • Application of monitoring anti-tamper reflective sensor  
 
-Interface for Project:
+**Interface for Project:**
 
   • C / C++
 
-Installing Prerequisites
+**Installing Prerequisites**
   
   • STM32CubeIDE – install from here
   
   •  Git : Get the latest git from here
  
- Hardware: 
+ **Hardware:** 
  
   • STM32L486xx: Reference link from here
  
@@ -26,7 +26,7 @@ Installing Prerequisites
   
   • VDD: 1.71V to 1.9V 
 
-Commponnent:
+**Commponnent:**
     
   • STM32L486xx - U1
 
@@ -42,7 +42,7 @@ Commponnent:
 
   • Red Led – LED for AT top side..
 
-Commuincation:
+**Commuincation:**
 
   • UART protocal 
 
@@ -80,7 +80,7 @@ Commuincation:
 
   • tamper event
 
-  **Reflective Sensor states:**
+**Reflective Sensor states:**
 
       • SENSOR_INITIALIZED
 
@@ -90,9 +90,9 @@ Commuincation:
 
       • SENSOR_ERROR
 
-  **if**  
+**if**  
         The Reflective Sensor dosen’t fined an tamper event it back to SENSOR_INITIALIZED 	state 
-  **else if**
+**else if**
         The Reflective Sensor fined an tamper event:
 
   **Event on Reflective Sensor/Switch Sensor top side:**
@@ -173,6 +173,10 @@ Commuincation:
    
    SW2 – GPIO PIN 8
    
+
+**<u>Testing:</u>**
+   
+
 **UART Console:**
   
   UART3 – PB10/PB11
@@ -183,7 +187,7 @@ Commuincation:
   
   Picocom -b 115200 /dev/ttyUSB0
 
-   ![image](https://user-images.githubusercontent.com/66781442/207285920-249fcc2b-d176-4504-a50b-b3f6dfb2ad7b.png)
+  ![image](https://user-images.githubusercontent.com/66781442/207285920-249fcc2b-d176-4504-a50b-b3f6dfb2ad7b.png)
     
     
 **Reflective Sensor test**
