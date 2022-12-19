@@ -2,7 +2,23 @@
 
 **Project Goal:**
 
-  • Application of monitoring anti-tamper reflective sensor  
+  • Application of monitoring anti-tamper reflective sensor
+  
+ Application of monitoring anti-tamper reflective sensor on kazuar board
+
+
+
+This document shell covers the high-level software design of the AT application.
+
+Anti-tamper application design supported the following:
+
+Reflective sensor events detection and logging (light beam reflected from the cover)
+
+Switching events (SW1/SW2) detection  
+
+Board voltage detection - led switch on / off
+
+This application support writing to UART
 
 **Interface for Project:**
 
